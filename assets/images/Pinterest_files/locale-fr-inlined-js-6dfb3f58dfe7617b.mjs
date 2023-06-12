@@ -1,0 +1,2 @@
+(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[386],{966196:(_,r,t)=>{try{0}catch(l){}var e={locale:"fr",i18nStrings:void 0,plural:t(460916)};_.exports=e},460916:_=>{_.exports=function(_){return+_>1}}}]);
+//# sourceMappingURL=https://sm.pinimg.com/webapp/locale-fr-inlined-js-6dfb3f58dfe7617b.mjs.map
